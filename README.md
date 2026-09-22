@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=Aspiring%20Automation%20QA%20Engineer%20%7C%20Manual%20and%20API%20Testing%20%7C%20UI%2FUX%20and%20Web%20Development%20Background;Learning%20to%20test%20software%20the%20way%20real%20QA%20teams%20do%2C%20one%20project%20at%20a%20time" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=Aspiring%20Automation%20QA%20Engineer%20%7C%20Manual%20%2B%20API%20Testing;Learning%20to%20test%20software%20the%20way%20real%20QA%20teams%20do%2C%20one%20project%20at%20a%20time" alt="Typing headlines" />
 </p>
 
 ###  About Me
 
 Undergraduate student studying Software Quality Assurance, with a background in UI/UX design and web development that shapes how I test. I focus on manual testing, API testing with Postman, and defect tracking with Jira, and I am actively building automation skills with Python, Selenium, and Playwright. I care about writing test cases and bug reports that anyone on a team could pick up and understand, not just ones that make sense to me.
 
-🔭 &nbsp;I'm currently working on **A QA portfolio project testing ParaBank, a banking application demo, covering manual UI testing and API testing across account management and fund transfers**  
+ &nbsp;I'm currently working on **A QA portfolio project testing ParaBank, a banking application demo, covering manual UI testing and API testing across account management and fund transfers**  
  &nbsp;I'm currently learning **Test automation with Selenium and Playwright, and Python fundamentals for building maintainable automated test suites**  
  &nbsp;I'm looking to collaborate on **Student or open source projects that need manual or API testing support, especially anything involving usability or accessibility**  
  &nbsp;I'm looking for help with **Structuring test automation frameworks that stay maintainable as a project grows, particularly Page Object Model design**  
@@ -42,7 +42,7 @@ Undergraduate student studying Software Quality Assurance, with a background in 
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
-### 🔗 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/hania-imran-9527ba291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -70,4 +70,3 @@ Undergraduate student studying Software Quality Assurance, with a background in 
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/HaniaImran576">HaniaImran576</a></i></p>
-
